@@ -1,5 +1,4 @@
 h1 {
-    color: purple;
     text-align: center;
     font-family: Georgia;
     font-size: 48px;
@@ -9,13 +8,8 @@ body {
     font-size: 18px;
 }
 
-html {
-    background-color: black;
-    color: white;
-}
-
 h2 {
-    color: yellow;
+    color: red;
     font-family: Georgia;
 }
 
